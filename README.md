@@ -41,26 +41,11 @@ Image-Captioning/
 
 ---
 
-##  Installation
+##  Installation and run 
 
 
-pip install -r requirements.txt
-```
-
----
-
-##  Run the Application
-
-```bash
-python app/ui.py
-```
-
-Then open:
-
-```
-http://127.0.0.1:7860/
-```
-
+- pip install -r requirements.txt
+- python app/main.py
 ---
 
 ##  Usage
