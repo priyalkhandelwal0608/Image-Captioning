@@ -6,7 +6,7 @@ from app.model import predict_caption
 # ---------------------------
 with gr.Blocks(theme=gr.themes.Soft()) as demo:
     
-    gr.Markdown("# 🖼️ Image Caption Generator")
+    gr.Markdown("#  Image Caption Generator")
     gr.Markdown("BLIP Model (Vision-Language Transformer)")
 
     with gr.Row():
