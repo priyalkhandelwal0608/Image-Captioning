@@ -41,7 +41,7 @@ Image-Captioning/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 
 pip install -r requirements.txt
@@ -72,8 +72,3 @@ http://127.0.0.1:7860/
 
 ---
 
-
-
-
-
-If you like this project, give it a ⭐ on GitHub!
